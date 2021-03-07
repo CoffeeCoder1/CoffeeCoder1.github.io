@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'mononoki';
-    src: url('fonts/mononoki-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('fonts/mononoki-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-         url('fonts/mononoki-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-         url('fonts/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+    src: url('https://raw.githubusercontent.com/madmalik/mononoki/gh-pages/fonts/mononoki-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('https://raw.githubusercontent.com/madmalik/mononoki/gh-pages/fonts/mononoki-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('https://raw.githubusercontent.com/madmalik/mononoki/gh-pages/fonts/mononoki-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('https://raw.githubusercontent.com/madmalik/mononoki/gh-pages/fonts/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
     font-weight: normal;
     font-style: normal;
 }
