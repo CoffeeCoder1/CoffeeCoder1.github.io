@@ -1,4 +1,4 @@
-<img src="https://images.weserv.nl/?url=coffeecoder1.github.io/assets/images/icon.jpg&h=5000&w=5000&fit=cover&mask=circle&maxage=7d" width="3cm" height="3cm" />
+<img src="https://images.weserv.nl/?url=coffeecoder1.github.io/assets/images/icon.jpg&h=5000&w=5000&fit=cover&mask=circle&maxage=7d" width="100" height="100" />
 # CoffeeCoder1
 
 [![Blog](https://img.shields.io/badge/Weblog-Apollo%20Tech%20Corner-darkturquoise?style=flat-square)](/Apollo-Tech-Corner)
