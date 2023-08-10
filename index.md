@@ -1,4 +1,6 @@
-# ![Avatar](https://images.weserv.nl/?url=coffeecoder1.github.io/assets/images/icon.jpg&h=500&w=500&fit=cover&mask=circle&maxage=7d) CoffeeCoder1
+<img src="https://images.weserv.nl/?url=coffeecoder1.github.io/assets/images/icon.jpg&h=5000&w=5000&fit=cover&mask=circle&maxage=7d" width="3cm" height="3cm" \>
+# CoffeeCoder1
+
 [![Blog](https://img.shields.io/badge/Weblog-Apollo%20Tech%20Corner-darkturquoise?style=flat-square)](/Apollo-Tech-Corner)
 [![Github](https://img.shields.io/badge/Github-CoffeeCoder1-lightgrey?style=flat-square&logo=github)](https://github.com/CoffeeCoder1) 
 <a rel="me" href="https://hachyderm.io/@CoffeeDev"><img src="https://img.shields.io/badge/Mastodon-%40CoffeeDev%40hachyderm.io-blue?style=flat-square&logo=mastodon" alt-text="Mastodon"></a> 
