@@ -1,3 +1,1 @@
-# [CoffeeCoder1.github.io](https://CoffeeCoder1.github.io)
-
-## Its just a [website](https://CoffeeCoder1.github.io).
+My [website](https://CoffeeCoder1.github.io) for various things.
