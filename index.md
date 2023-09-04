@@ -12,4 +12,7 @@
 ## Projects
  - [OpenCamRemote](https://the-industries.github.io/OpenCamRemote/): An open source camera remote control system
 
+## Other Things
+ - [Narwhal Audio](https://NarwhalAudio.github.io/): Various audio plugins and other audio things.
+
 [Indentation Guide](/indentation)
