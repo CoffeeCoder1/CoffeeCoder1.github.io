@@ -6,7 +6,7 @@
 [![PeerTube](https://img.shields.io/badge/PeerTube-coffeecoder1%40diode.zone-orange?style=flat-square&logo=peertube)](https://diode.zone/a/coffeecoder1)
 [![Lemmy](https://img.shields.io/badge/Lemmy-%40CoffeeDev%40lemmy.studio-lightgrey?style=flat-square&logo=lemmy)](https://lemmy.studio/u/CoffeeDev)
 [![Matrix](https://img.shields.io/badge/Matrix-%40coffeedev%40gnulinux.club-%230dbd8b?style=flat-square&logo=matrix)](https://matrix.to/#/@coffeedev:gnulinux.club)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-CoffeeCoder1-%23ff5a5f?style=flat-square&logo=Ko-Fi)](https://ko-fi.com/coffeecoder1)
+[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-ApolloFops-%23ff5a5f?style=flat-square&logo=Ko-Fi)](https://ko-fi.com/ApolloFops)
 
 ## Projects
  - [OpenCamRemote](https://the-industries.github.io/OpenCamRemote/): An open source camera remote control system
